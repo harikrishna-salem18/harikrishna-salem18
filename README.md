@@ -1,6 +1,6 @@
 - 👋 Hi, I’m V.S.Harikrishna @harikrishna-salem18
 - 👀 I’m interested in ... Cricket, Movies, Indian history, Novels 
-- 🌱 I’m currently learning ...Python via i18nsolution @salem
+- 🌱 I’m currently learning ...Python via i18nsolutions @salem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...harivsmarshy@gmail.com , lamehdoge3@gmail.com
 
